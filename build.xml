@@ -2,7 +2,7 @@
 <target name ="com" depends="vi">
 <echo> hi this is viswa</echo>
 </target>
-<property file ="./local.properties"
+<property file ="./local.properties"/>
 <property name ="valie" value =" "/>
 <echo> the valie is ${valie} </echo>
 
